@@ -2,9 +2,6 @@
 CSE366: Game Based Assignment
 
 
-CSE366: Game Based Assignment
-
-
 Necessary Knowledge Required: Game Tree, Backtracking, State Saving in games, Alpha Beta Pruning. 
 
 
