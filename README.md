@@ -1,4 +1,6 @@
 # -CSE-366-AI-TicTacTeo5x5
+
+![image](https://github.com/Farhad0111/CSE-366-AI-TicTacTeo5x5/assets/109299643/b697590f-3247-4d35-aa05-a579fad63337)
 CSE366: Game Based Assignment
 
 
